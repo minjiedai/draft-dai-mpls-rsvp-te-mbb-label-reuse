@@ -4,12 +4,12 @@
 <?rfc compact="yes"?>
 <?rfc subcompact="no"?>
 <?rfc symrefs="yes" ?>
-<rfc category="info" ipr="trust200902"
+<rfc category="bcp" ipr="trust200902"
     docName="draft-dai-mpls-rsvp-te-mbb-label-reuse-00" obsoletes=""
     updates="" submissionType="IETF" xml:lang="en">
   <front>
     <title abbrev="MPLS RSVP-TE MBB Label Reuse">MPLS RSVP-TE MBB Label
-        Reuse - BCP</title>
+        Reuse</title>
     <author initials="M." surname="Dai"
         fullname="Minjie Dai" role="editor">
       <organization>Juniper Networks</organization>
@@ -302,7 +302,6 @@
   <back>
     <references title="Normative References">
         <?rfc include="reference.RFC.2119.xml"?>
-        <?rfc include="reference.RFC.2205.xml"?>
         <?rfc include="reference.RFC.3209.xml"?>
     </references>
   </back>
