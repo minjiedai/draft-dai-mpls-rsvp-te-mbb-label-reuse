@@ -30,6 +30,25 @@
         <email>yakov@juniper.net</email>
       </address>
     </author>
+    <author initials="E." surname="Aries" fullname="Ebben Aries">
+      <organization>Facebook</organization>
+      <address>
+        <postal>
+          <street>1 Hacker Way</street>
+          <city>Menlo Park</city>
+          <region>CA</region>
+          <code>94025</code>
+          <country>US</country>
+        </postal>
+        <email>exa@fb.com</email>
+      </address>
+    </author>
+    <author initials="M." surname="Chaudhry" fullname="Muhammad Nauman Chaudhry">
+        <organization>Verizon Communications</organization>
+        <address>
+            <email>muhammad.n.chaudhry@verizon.com</email>
+        </address>
+    </author>
     <author initials="R." surname="Torvi" fullname="Raveendra Torvi">
         <organization>Juniper Networks</organization>
         <address>
@@ -66,19 +85,6 @@
         <address>
             <email>hsitaraman@juniper.net</email>
         </address>
-    </author>
-    <author initials="E." surname="Aries" fullname="Ebben Aries">
-      <organization>Facebook</organization>
-      <address>
-        <postal>
-          <street>1 Hacker Way</street>
-          <city>Menlo Park</city>
-          <region>CA</region>
-          <code>94025</code>
-          <country>US</country>
-        </postal>
-        <email>exa@fb.com</email>
-      </address>
     </author>
     <date year="2015"/>
     <area>Routing</area>
